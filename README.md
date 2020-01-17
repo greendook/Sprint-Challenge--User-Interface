@@ -37,16 +37,20 @@ Edit this document to include your answers after each question. Make sure to lea
     A semantic element clearly defines its content for example header a non-semantic element would be a div
 
 2. Name two big differences between `display: block;` and `display: inline;`.
-   block allows width and height while inline does not
+
+    block allows width and height while inline does not
 
 3. What are the 4 areas of the box model?
-   content, padding, border, and margin
+
+    content, padding, border, and margin
 
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
-   cross axis
+
+    cross axis
 
 5. Explain why git is valuable to a team of developers.
-   So you can check code before implementing it.
+
+    So you can check code before implementing it.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
